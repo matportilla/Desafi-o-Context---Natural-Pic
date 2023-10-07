@@ -11,3 +11,4 @@ npm install
 ```bash
 npm run dev
 ```
+Trabajo colaborativo MAtias Portilla, Nicolas Arratia.
